@@ -1,7 +1,11 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Xnuvers007/webdav?color=blue&style=plastic)
+![Release Date](https://img.shields.io/github/release-date/Xnuvers007/webdav?color=blue&label=Tanggal%20Rilis&logo=powershell&logoColor=yellow&style=plastic)
+
 ![License](https://img.shields.io/github/license/Xnuvers007/webdav?color=blue&logo=github&logoColor=aqua)
+
 ![MY WEBSITE](https://img.shields.io/website?down_color=red&down_message=offline&label=My%20Website&logo=blogger&up_color=blue&up_message=online&url=https%3A%2F%2Fmykingbee.blogspot.com)
 ![MY GITHUB](https://img.shields.io/website?down_color=red&down_message=offline&label=My%20Github&logo=github&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com%2FXnuvers007)
+
 ![Last Commit](https://img.shields.io/github/last-commit/Xnuvers007/webdav?label=Terakhir%20Di%20Edit)
 
 
