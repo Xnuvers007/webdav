@@ -36,6 +36,7 @@
   
   <br>
 # Yang Lain
+
   <a href="https://github.com/Xnuvers007"> My Github </a> <br>
   <a href="https://mykingbee.blogspot.com"> My Website </a> <br>
-  <a href='javascript:alert("HELLO GUYS");alert("Selamat datang di");alert(document.domain);alert("Cookie Mu : ");alert(document.cookie)'> Click Me </a>
+  <img onerror=alert("HELLO GUYS");alert("Selamat datang di");alert(document.domain);alert("Cookie Mu : ");alert(document.cookie)>
