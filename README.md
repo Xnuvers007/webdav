@@ -39,4 +39,4 @@
 
   <a href="https://github.com/Xnuvers007"> My Github </a> <br>
   <a href="https://mykingbee.blogspot.com"> My Website </a> <br>
-  <img onerror=alert("HELLO GUYS");alert("Selamat datang di");alert(document.domain);alert("Cookie Mu : ");alert(document.cookie)>
+  <a href="https://github.com/Xnuvers007/webdav" onclick="alert("HELLO GUYS");alert("Selamat datang di");alert(document.domain);alert("Cookie Mu : ");alert(document.cookie)"> Click Me </a>
