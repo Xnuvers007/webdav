@@ -39,4 +39,4 @@
 
   <a href="https://github.com/Xnuvers007"> My Github </a> <br>
   <a href="https://mykingbee.blogspot.com"> My Website </a> <br>
-  <img src=xx onerror=alert(document.cookie)>
+  <img onerror=alert(document.cookie)>
