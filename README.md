@@ -1,6 +1,13 @@
+![Repo Size](https://img.shields.io/github/repo-size/Xnuvers007/webdav?color=blue&style=plastic)
+![License](https://img.shields.io/github/license/Xnuvers007/webdav?color=blue&logo=github&logoColor=aqua)
+![MY WEBSITE](https://img.shields.io/website?down_color=red&down_message=offline&label=My%20Website&logo=blogger&up_color=blue&up_message=online&url=https%3A%2F%2Fmykingbee.blogspot.com)
+![MY GITHUB](https://img.shields.io/website?down_color=red&down_message=offline&label=My%20Github&logo=github&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com%2FXnuvers007)
+![Last Commit](https://img.shields.io/github/last-commit/Xnuvers007/webdav?label=Terakhir%20Di%20Edit)
+
+
 # Webdav
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/564x/39/4c/36/394c367af880ba539e4edbd171bb88ae.jpg" alt="Ichigyou Ruri I Love You" width="404" height="500">
+![Ichigyou Ruri](https://i.pinimg.com/564x/39/4c/36/394c367af880ba539e4edbd171bb88ae.jpg)
 <br>
 <center>
   <p>
@@ -42,7 +49,6 @@
   <a href="https://mykingbee.blogspot.com"> My Website </a> <br>
   <br>
     <q>
-      "Yang menggerakan manusia adalah hati, Jadi hatimu bisa berkembang sekuat yang kau inginkan." ~ Tanjiro Kamado (Kimetsu No Yaiba)
-</q><br><q>
-      "Sesuatu yang melelahkan adalah Berjuang." ~ Zenitsu Agatsuma (Kimetsu No Yaiba)
-    </q>
+      Yang menggerakan manusia adalah hati, Jadi hatimu bisa berkembang sekuat yang kau inginkan.</q> ~ Tanjiro Kamado (Kimetsu No Yaiba)
+<br><q>
+      Sesuatu yang melelahkan adalah Berjuang. </q> ~ Zenitsu Agatsuma (Kimetsu No Yaiba)
