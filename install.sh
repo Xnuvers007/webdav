@@ -1,4 +1,7 @@
 pkg install figlet
+pkg install bash
+pkg install python
+pkg install pip
 pkg install Ruby
 pkg install lolcat
 gem install lolcat
