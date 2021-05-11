@@ -40,11 +40,9 @@
 
   <a href="https://github.com/Xnuvers007"> My Github </a> <br>
   <a href="https://mykingbee.blogspot.com"> My Website </a> <br>
-  <code>
-    echo "Thanks for visiting"
-  </code>
   <br>
     <q>
       "Yang menggerakan manusia adalah hati, Jadi hatimu bisa berkembang sekuat yang kau inginkan." ~ Tanjiro Kamado (Kimetsu No Yaiba)
+</q><br><q>
       "Sesuatu yang melelahkan adalah Berjuang." ~ Zenitsu Agatsuma (Kimetsu No Yaiba)
     </q>
